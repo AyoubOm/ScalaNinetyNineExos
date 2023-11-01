@@ -1,1 +1,1 @@
-# Small exos for getting started to Scala
+# Small exos for getting started with Scala
